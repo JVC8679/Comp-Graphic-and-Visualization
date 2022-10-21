@@ -1,0 +1,46 @@
+﻿  cylinder.cpp
+  Main.cpp
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\Main.cpp(329,29): warning C4244: '=': conversion from 'GLsizeiptr' to 'GLuint', possible loss of data
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\Main.cpp(394,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\Main.cpp(499,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\Main.cpp(510,103): warning C4312: 'type cast': conversion from 'GLuint' to 'void *' of greater size
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\Main.cpp(519,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\Main.cpp(541,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  ShapeGenerator.cpp
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(33,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(34,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(49,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(51,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(95,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(96,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\ShapeGenerator.cpp(97,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  staticMesh3D.cpp
+  staticMeshIndexed3D.cpp
+  vertexBufferObject.cpp
+C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\vertexBufferObject.cpp(78,36): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CS-330_3D Scene.vcxproj -> C:\Users\draco\source\repos\CS-330\CS-330_3D Scene\x64\Debug\CS-330_3D Scene.exe
